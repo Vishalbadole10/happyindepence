@@ -15,6 +15,7 @@ section{
     overflow: hidden;
 }
 section h2{
+    display: flex;
     position: relative;
     font-size: 6.5em;
     color: #fff;
@@ -22,6 +23,7 @@ section h2{
     mix-blend-mode: overlay;
 }
 section video{
+    display: flex;
     position: absolute;
     top: 0;
     left: 0;
