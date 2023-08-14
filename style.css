@@ -15,6 +15,7 @@ section{
     overflow: hidden;
 }
 section h2{
+    height: 75vh;
     display: flex;
     position: relative;
      font-size: 3rem;
