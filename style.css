@@ -18,7 +18,7 @@ section h2{
     height: 75vh;
     display: flex;
     position: relative;
-     font-size: 3rem;
+    font-size: 6.5em;
     color: #fff;
     z-index: 10000;
     mix-blend-mode: overlay;
